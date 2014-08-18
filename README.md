@@ -1,0 +1,4 @@
+snake
+=====
+
+Javascript snake test
